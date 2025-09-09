@@ -42,21 +42,16 @@ import betlogo from './assets/work_logo/betlogo.png';
 // Certificate Section Logo's
 
 import c1 from './assets/certificate_logo/1.png';
-import c2 from './assets/certificate_logo/2.png';
-import c3 from './assets/certificate_logo/3.png';
-import c4 from './assets/certificate_logo/4.png';
-import c5 from './assets/certificate_logo/5.png';
-import c6 from './assets/certificate_logo/6.png';
-import c7 from './assets/certificate_logo/7.png';
 import c8 from './assets/certificate_logo/8.png';
 import c9 from './assets/certificate_logo/9.png';
 import c10 from './assets/certificate_logo/10.png';
-import c11 from './assets/certificate_logo/11.png';
 import c12 from './assets/certificate_logo/12.png';
 import c13 from './assets/certificate_logo/13.png';
 import c14 from './assets/certificate_logo/14.png';
 import c15 from './assets/certificate_logo/15.png';
 import c16 from './assets/certificate_logo/16.png';
+import c17 from './assets/certificate_logo/17.png';
+import c18 from './assets/certificate_logo/18.png';
 export const SkillsInfo = [
   {
     title: 'Frontend',
@@ -249,104 +244,70 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Build Dynamic User Interface for Websites",
+      title: "Google UX Design Professional Certificate",
       description:"",
-         image: c2,
+         image: c18,
      
     },
     {
       id: 2,
-      title: "Build Wireframes and Low-Fidelity Prototype",
-      description:" ",
-         image: c3,
-      
-    },
-    {
-      id: 3,
-      title: "Conduct UX Research and Test Early Concept",
-      description:"",
-        image: c4,
-     
-    },
-    {
-      id: 4,
-      title: "Create High-Fidelity Designs and Prototype in FIGMA",
-      description:"",
-         image: c5,
-      
-    },
-    {
-      id: 5,
-      title: "Design User Experience For Social Good and Prepare for Jobs",
-      description:"",
-         image: c6,
-    },
-    {
-      id: 6,
-      title: "Foundation of User Experience Design",
-      description:"",
-        image: c7,
-    },
-    {
-      id: 7,
       title: "The Complete FullStack Web Development",
       description:"",
             image: c8,
      
     },
     {
-      id: 8,
+      id: 4,
       title: "Python for Data Science",
       description:"",
            image: c9,
       
     },
     {
-      id: 9,
+      id: 5,
       title: "SQL and Relational Databases",
       description:"",
            image: c10,
      
     },
     {
-      id: 10,
-      title: "Start the UX Design Process",
-      description:"",
-           image: c11,
-      
-    },
-    {
-      id: 11,
+      id: 6,
       title: "Version Control",
       description:"",
             image: c12,
     },
     {
-      id: 12,
+      id: 7,
       title: "Web Developer Intern - CodeSoft Technologies",
       description:"",
         image: c13,
      
     },
     {
-      id: 13,
+      id: 8,
       title: "Hackothon - NMIT HACKS 2025",
       description:"",
             image: c15,
       
     },
     {
-      id: 14,
+      id: 9,
       title: "Hackothon - VEDHA 2024",
       description:"",
         image: c14,
      
     },
     {
-      id: 15,
+      id: 10,
       title: "Hackothon - SRINATHON 2024",
       description:"",
          image: c16,
       
     },
-  ];  
+    {
+    id: 11,
+      title: "Salesforce Platform Developer Intern",
+      description:"",
+         image: c17,
+    }
+];  
